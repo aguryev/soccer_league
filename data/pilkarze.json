@@ -1,7 +1,8 @@
 [
   {
+    "id": "rudiger",
     "firstName": "Antonio",
-    "lastName": "Rüdiger",
+    "lastName": "R\u00fcdiger",
     "club": "CHE",
     "deffence": 93,
     "control": 69,
@@ -9,6 +10,7 @@
     "position": "CB"
   },
   {
+    "id": "gea",
     "firstName": "David",
     "lastName": "de Gea",
     "club": "MUN",
@@ -18,6 +20,7 @@
     "position": "GK"
   },
   {
+    "id": "tripper",
     "firstName": "Kieran",
     "lastName": "Tripper",
     "club": "AMD",
@@ -27,6 +30,7 @@
     "position": "RB"
   },
   {
+    "id": "schulz",
     "firstName": "Nico",
     "lastName": "Schulz",
     "club": "DOR",
@@ -36,6 +40,7 @@
     "position": "LB"
   },
   {
+    "id": "herrera",
     "firstName": "Ander",
     "lastName": "Herrera",
     "club": "PSG",
@@ -45,6 +50,7 @@
     "position": "CM"
   },
   {
+    "id": "goretzka",
     "firstName": "Leon",
     "lastName": "Goretzka",
     "club": "BAY",
@@ -54,16 +60,18 @@
     "position": "CM"
   },
   {
+    "id": "fernandes",
     "firstName": "Bruno",
     "lastName": "Fernandes",
     "club": "MUN",
     "deffence": 62,
     "control": 97,
     "attack": 74,
-    "position": "AM",
+    "position": "AM"
   },
   {
-    "firstName": "Sébastien",
+    "id": "haller",
+    "firstName": "S\u00e9bastien",
     "lastName": "Haller",
     "club": "AJA",
     "deffence": 63,
@@ -72,6 +80,7 @@
     "position": "CF"
   },
   {
+    "id": "neymar",
     "firstName": "JR",
     "lastName": "Neymar",
     "club": "PSG",
@@ -81,6 +90,7 @@
     "position": "LW"
   },
   {
+    "id": "nacho",
     "firstName": "",
     "lastName": "Nacho",
     "club": "MAD",
@@ -90,6 +100,7 @@
     "position": "CB"
   },
   {
+    "id": "fabinho",
     "firstName": "",
     "lastName": "Fabinho",
     "club": "LIV",
@@ -99,6 +110,7 @@
     "position": "CM"
   },
   {
+    "id": "lewandowski",
     "firstName": "Robert",
     "lastName": "Lewandowski",
     "club": "BAY",
@@ -108,8 +120,9 @@
     "position": "CF"
   },
   {
-    "firstName": "José",
-    "lastName": "Giménez",
+    "id": "gimenez",
+    "firstName": "Jos\u00e9",
+    "lastName": "Gim\u00e9nez",
     "club": "AMD",
     "deffence": 80,
     "control": 70,
@@ -117,6 +130,7 @@
     "position": "CB"
   },
   {
+    "id": "akanji",
     "firstName": "Manuel",
     "lastName": "Akanji",
     "club": "DOR",
@@ -126,6 +140,7 @@
     "position": "CB"
   },
   {
+    "id": "roberto",
     "firstName": "Sergi",
     "lastName": "Roberto",
     "club": "FCB",
@@ -135,6 +150,7 @@
     "position": "CM"
   },
   {
+    "id": "yazici",
     "firstName": "Yusuf",
     "lastName": "Yazici",
     "club": "LIL",
@@ -144,6 +160,7 @@
     "position": "CM"
   },
   {
+    "id": "correa",
     "firstName": "Angel",
     "lastName": "Correa",
     "club": "AMD",
@@ -153,8 +170,9 @@
     "position": "CF"
   },
   {
+    "id": "mane",
     "firstName": "Sadio",
-    "lastName": "Mané",
+    "lastName": "Man\u00e9",
     "club": "LIV",
     "deffence": 58,
     "control": 77,
@@ -162,7 +180,8 @@
     "position": "LW"
   },
   {
-    "firstName": "Álvaro",
+    "id": "morata",
+    "firstName": "\u00c1lvaro",
     "lastName": "Morata",
     "club": "JUV",
     "deffence": 59,
@@ -171,6 +190,7 @@
     "position": "CF"
   },
   {
+    "id": "benzema",
     "firstName": "Karim",
     "lastName": "Benzema",
     "club": "MAD",
@@ -180,7 +200,8 @@
     "position": "CF"
   },
   {
-    "firstName": "Óscar",
+    "id": "mingueza",
+    "firstName": "\u00d3scar",
     "lastName": "Mingueza",
     "club": "FCB",
     "deffence": 78,
@@ -189,7 +210,8 @@
     "position": "CB"
   },
   {
-    "firstName": "Joël",
+    "id": "matip",
+    "firstName": "Jo\u00ebl",
     "lastName": "Matip",
     "club": "LIV",
     "deffence": 81,
@@ -198,8 +220,9 @@
     "position": "CB"
   },
   {
+    "id": "garcia",
     "firstName": "Eric",
-    "lastName": "García",
+    "lastName": "Garc\u00eda",
     "club": "FCB",
     "deffence": 79,
     "control": 71,
@@ -207,15 +230,7 @@
     "position": "CB"
   },
   {
-    "firstName": "Eric",
-    "lastName": "García",
-    "club": "FCB",
-    "deffence": 79,
-    "control": 71,
-    "attack": 63,
-    "position": "CB"
-  },
-  {
+    "id": "courtois",
     "firstName": "Thibaut",
     "lastName": "Courtois",
     "club": "MAD",
@@ -225,6 +240,7 @@
     "position": "GK"
   },
   {
+    "id": "vrij",
     "firstName": "Stefan",
     "lastName": "de Vrij",
     "club": "INT",
@@ -234,6 +250,7 @@
     "position": "CB"
   },
   {
+    "id": "pogba",
     "firstName": "Paul",
     "lastName": "Pogba",
     "club": "MUN",
@@ -243,6 +260,7 @@
     "position": "CM"
   },
   {
+    "id": "kimmich",
     "firstName": "Joshua",
     "lastName": "Kimmich",
     "club": "BAY",
@@ -252,6 +270,7 @@
     "position": "CM"
   },
   {
+    "id": "mahrez",
     "firstName": "Riyad",
     "lastName": "Mahrez",
     "club": "MCI",
@@ -261,8 +280,9 @@
     "position": "RW"
   },
   {
+    "id": "mbappe",
     "firstName": "Kylian",
-    "lastName": "Mbappé",
+    "lastName": "Mbapp\u00e9",
     "club": "PSG",
     "deffence": 60,
     "control": 82,
@@ -270,6 +290,7 @@
     "position": "CF"
   },
   {
+    "id": "chiesa",
     "firstName": "Federico",
     "lastName": "Chiesa",
     "club": "JUV",
@@ -279,6 +300,7 @@
     "position": "RW"
   },
   {
+    "id": "berghuis",
     "firstName": "Steven",
     "lastName": "Berghuis",
     "club": "AJA",
@@ -286,5 +308,5 @@
     "control": 89,
     "attack": 75,
     "position": "AM"
-  },
+  }
 ]
