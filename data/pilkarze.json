@@ -1,0 +1,290 @@
+[
+  {
+    "firstName": "Antonio",
+    "lastName": "Rüdiger",
+    "club": "CHE",
+    "deffence": 93,
+    "control": 69,
+    "attack": 68,
+    "position": "CB"
+  },
+  {
+    "firstName": "David",
+    "lastName": "de Gea",
+    "club": "MUN",
+    "deffence": 86,
+    "control": 68,
+    "attack": 58,
+    "position": "GK"
+  },
+  {
+    "firstName": "Kieran",
+    "lastName": "Tripper",
+    "club": "AMD",
+    "deffence": 81,
+    "control": 68,
+    "attack": 66,
+    "position": "RB"
+  },
+  {
+    "firstName": "Nico",
+    "lastName": "Schulz",
+    "club": "DOR",
+    "deffence": 77,
+    "control": 72,
+    "attack": 62,
+    "position": "LB"
+  },
+  {
+    "firstName": "Ander",
+    "lastName": "Herrera",
+    "club": "PSG",
+    "deffence": 76,
+    "control": 85,
+    "attack": 64,
+    "position": "CM"
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Goretzka",
+    "club": "BAY",
+    "deffence": 69,
+    "control": 83,
+    "attack": 71,
+    "position": "CM"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Fernandes",
+    "club": "MUN",
+    "deffence": 62,
+    "control": 97,
+    "attack": 74,
+    "position": "AM",
+  },
+  {
+    "firstName": "Sébastien",
+    "lastName": "Haller",
+    "club": "AJA",
+    "deffence": 63,
+    "control": 75,
+    "attack": 95,
+    "position": "CF"
+  },
+  {
+    "firstName": "JR",
+    "lastName": "Neymar",
+    "club": "PSG",
+    "deffence": 57,
+    "control": 76,
+    "attack": 88,
+    "position": "LW"
+  },
+  {
+    "firstName": "",
+    "lastName": "Nacho",
+    "club": "MAD",
+    "deffence": 80,
+    "control": 74,
+    "attack": 62,
+    "position": "CB"
+  },
+  {
+    "firstName": "",
+    "lastName": "Fabinho",
+    "club": "LIV",
+    "deffence": 71,
+    "control": 81,
+    "attack": 68,
+    "position": "CM"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Lewandowski",
+    "club": "BAY",
+    "deffence": 58,
+    "control": 75,
+    "attack": 100,
+    "position": "CF"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Giménez",
+    "club": "AMD",
+    "deffence": 80,
+    "control": 70,
+    "attack": 65,
+    "position": "CB"
+  },
+  {
+    "firstName": "Manuel",
+    "lastName": "Akanji",
+    "club": "DOR",
+    "deffence": 84,
+    "control": 69,
+    "attack": 65,
+    "position": "CB"
+  },
+  {
+    "firstName": "Sergi",
+    "lastName": "Roberto",
+    "club": "FCB",
+    "deffence": 74,
+    "control": 77,
+    "attack": 68,
+    "position": "CM"
+  },
+  {
+    "firstName": "Yusuf",
+    "lastName": "Yazici",
+    "club": "LIL",
+    "deffence": 61,
+    "control": 80,
+    "attack": 77,
+    "position": "CM"
+  },
+  {
+    "firstName": "Angel",
+    "lastName": "Correa",
+    "club": "AMD",
+    "deffence": 60,
+    "control": 85,
+    "attack": 80,
+    "position": "CF"
+  },
+  {
+    "firstName": "Sadio",
+    "lastName": "Mané",
+    "club": "LIV",
+    "deffence": 58,
+    "control": 77,
+    "attack": 84,
+    "position": "LW"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Morata",
+    "club": "JUV",
+    "deffence": 59,
+    "control": 72,
+    "attack": 85,
+    "position": "CF"
+  },
+  {
+    "firstName": "Karim",
+    "lastName": "Benzema",
+    "club": "MAD",
+    "deffence": 60,
+    "control": 72,
+    "attack": 87,
+    "position": "CF"
+  },
+  {
+    "firstName": "Óscar",
+    "lastName": "Mingueza",
+    "club": "FCB",
+    "deffence": 78,
+    "control": 73,
+    "attack": 59,
+    "position": "CB"
+  },
+  {
+    "firstName": "Joël",
+    "lastName": "Matip",
+    "club": "LIV",
+    "deffence": 81,
+    "control": 73,
+    "attack": 61,
+    "position": "CB"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "García",
+    "club": "FCB",
+    "deffence": 79,
+    "control": 71,
+    "attack": 63,
+    "position": "CB"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "García",
+    "club": "FCB",
+    "deffence": 79,
+    "control": 71,
+    "attack": 63,
+    "position": "CB"
+  },
+  {
+    "firstName": "Thibaut",
+    "lastName": "Courtois",
+    "club": "MAD",
+    "deffence": 99,
+    "control": 69,
+    "attack": 60,
+    "position": "GK"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "de Vrij",
+    "club": "INT",
+    "deffence": 94,
+    "control": 68,
+    "attack": 62,
+    "position": "CB"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Pogba",
+    "club": "MUN",
+    "deffence": 65,
+    "control": 94,
+    "attack": 72,
+    "position": "CM"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Kimmich",
+    "club": "BAY",
+    "deffence": 73,
+    "control": 95,
+    "attack": 61,
+    "position": "CM"
+  },
+  {
+    "firstName": "Riyad",
+    "lastName": "Mahrez",
+    "club": "MCI",
+    "deffence": 66,
+    "control": 79,
+    "attack": 90,
+    "position": "RW"
+  },
+  {
+    "firstName": "Kylian",
+    "lastName": "Mbappé",
+    "club": "PSG",
+    "deffence": 60,
+    "control": 82,
+    "attack": 100,
+    "position": "CF"
+  },
+  {
+    "firstName": "Federico",
+    "lastName": "Chiesa",
+    "club": "JUV",
+    "deffence": 61,
+    "control": 80,
+    "attack": 94,
+    "position": "RW"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Berghuis",
+    "club": "AJA",
+    "deffence": 65,
+    "control": 89,
+    "attack": 75,
+    "position": "AM"
+  },
+]

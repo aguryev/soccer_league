@@ -1,0 +1,58 @@
+{
+  "AJA": {
+    "title": "Ajax Amsterdam",
+    "lineup": [7, null, null]
+  },
+  "AMD": {
+    "title": "Atletico Madrid",
+    "lineup": [null, null, null]
+  },
+  "BAY": {
+    "title": "Bayern Munich",
+    "lineup": [null, 9, null]
+  },
+  "CHE": {
+    "title": "Chelsea",
+    "lineup": [null, null, null]
+  },
+  "DOR": {
+    "title": "Borussia Dortmund",
+    "lineup": [null, null, null]
+  },
+  "FCB": {
+    "title": "Barcelona",
+    "lineup": [null, 7, null]
+  },
+  "INT": {
+    "title": "Inter Milan",
+    "lineup": [null, null, null]
+  },
+  "JUV": {
+    "title": "Juventus",
+    "lineup": [null, null, null]
+  },
+  "LIL": {
+    "title": "Lille",
+    "lineup": [null, null, null]
+  },
+  "LIV": {
+    "title": "Liverpool",
+    "lineup": [null, null, null]
+  },
+  "MAD": {
+    "title": "Real Madrid",
+    "lineup": [null, null, null]
+  },
+  "MCI": {
+    "title": "Manchester City",
+    "lineup": [null, null, null]
+  },
+  "MUN": {
+    "title": "Manchester United",
+    "lineup": [null, null, 5]
+  },
+  "PSG": {
+    "title": "Paris St Germain",
+    "lineup": [null, null, null]
+  }
+}
