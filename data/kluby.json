@@ -1,58 +1,58 @@
 {
   "AJA": {
-    "title": "Ajax Amsterdam",
-    "lineup": [7, null, null]
+    "title": "AFC Ajax",
+    "lineup": [7, 3, 9]
   },
   "AMD": {
-    "title": "Atletico Madrid",
-    "lineup": [null, null, null]
+    "title": "Atlético de Madrid",
+    "lineup": [6, 8, 5]
   },
   "BAY": {
-    "title": "Bayern Munich",
-    "lineup": [null, 9, null]
+    "title": "FC Bayern München",
+    "lineup": [6, 9, 10]
   },
   "CHE": {
-    "title": "Chelsea",
-    "lineup": [null, null, null]
+    "title": "Chelsea FC",
+    "lineup": [9, 10, 7]
   },
   "DOR": {
     "title": "Borussia Dortmund",
-    "lineup": [null, null, null]
+    "lineup": [3, 6, 8]
   },
   "FCB": {
-    "title": "Barcelona",
-    "lineup": [null, 7, null]
+    "title": "FC Barcelona",
+    "lineup": [5, 7, 3]
   },
   "INT": {
-    "title": "Inter Milan",
-    "lineup": [null, null, null]
+    "title": "FC Internazionale Milano",
+    "lineup": [8, 5, 6]
   },
   "JUV": {
     "title": "Juventus",
-    "lineup": [null, null, null]
+    "lineup": [7, 5, 6]
   },
   "LIL": {
-    "title": "Lille",
-    "lineup": [null, null, null]
+    "title": "LOSC Lille",
+    "lineup": [4, 3, 4]
   },
   "LIV": {
-    "title": "Liverpool",
-    "lineup": [null, null, null]
+    "title": "Liverpool FC",
+    "lineup": [8, 6, 9]
   },
   "MAD": {
-    "title": "Real Madrid",
-    "lineup": [null, null, null]
+    "title": "Real Madrid C.F.",
+    "lineup": [9, 8, 4]
   },
   "MCI": {
     "title": "Manchester City",
-    "lineup": [null, null, null]
+    "lineup": [9, 10, 8]
   },
   "MUN": {
     "title": "Manchester United",
-    "lineup": [null, null, 5]
+    "lineup": [4, 7, 5]
   },
   "PSG": {
-    "title": "Paris St Germain",
-    "lineup": [null, null, null]
+    "title": "Paris Saint-Germain",
+    "lineup": [6, 4, 10]
   }
 }
